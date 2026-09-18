@@ -1,0 +1,506 @@
+{
+  "id": "story1",
+  "title": "Congkak Persahabatan",
+  "startSceneId": "scene1",
+  "backgroundMusic": "music_1",
+  "scenes": [
+    {
+      "id": "scene1",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": false,
+      "characterImage": null,
+      "characterPlacement": {
+        "width": null,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "voiceover": "1",
+      "speaker": "",
+      "text": "",
+      "choices": null,
+      "next": "scene2"
+    },
+    {
+      "id": "scene2",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc1",
+      "characterPlacement": {
+        "width": 600,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 150
+      },
+      "voiceover": "yay",
+      "speaker": null,
+      "text": "",
+      "choices": null,
+      "next": "scene3"
+    },
+    {
+      "id": "scene3",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc2",
+      "characterPlacement": {
+        "width": 300,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 40
+      },
+      "voiceover": "2",
+      "speaker": "Encep",
+      "text": "Wah, ini apa, Abah?",
+      "choices": null,
+      "next": "scene4"
+    },
+    {
+      "id": "scene4",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc3",
+      "characterPlacement": {
+        "width": 260,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 40
+      },
+      "voiceover": "3",
+      "speaker": "Abah",
+      "text": "Coba dibuka saja, Nak. Kamu pasti menyukainya.",
+      "choices": null,
+      "next": "scene5"
+    },
+    {
+      "id": "scene5",
+      "background": "bg_st1_sc1_1",
+      "backgroundBlur": false,
+      "characterImage": "ch_st1_sc4",
+      "characterPlacement": {
+        "width": 402,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "voiceover": "4",
+      "speaker": null,
+      "text": "Encep pun membuka kotak hadiah tersebut yang ternyata berisi congkak!",
+      "choices": null,
+      "next": "scene6"
+    },
+    {
+      "id": "scene6",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc5",
+      "characterPlacement": {
+        "width": 388,
+        "height": null,
+        "xOffset": 3,
+        "yOffset": 3
+      },
+      "voiceover": null,
+      "speaker": "Encep",
+      "text": "Terima kasih Abah dan Ambu.",
+      "choices": null,
+      "next": "scene7"
+    },
+    {
+      "id": "scene7",
+      "background": "bg_st1_sc1_2",
+      "backgroundBlur": false,
+      "characterImage": null,
+      "characterPlacement": {
+        "width": 369,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -30
+      },
+      "voiceover": "5",
+      "speaker": null,
+      "text": "",
+      "choices": null,
+      "next": "scene8"
+    },
+    {
+      "id": "scene8",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": false,
+      "characterImage": "ch_st1_sc7",
+      "characterPlacement": {
+        "width": 400,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 210
+      },
+      "voiceover": "6",
+      "speaker": null,
+      "text": "Tak lama kemudian, teman-teman Encep pun mendatangi rumah Encep untuk bermain. Hotma, Waha, dan Boaz secara bersamaan memanggil Encep dengan lantang.",
+      "choices": null,
+      "next": "scene9"
+    },
+    {
+      "id": "scene9",
+      "background": "bg_st1_sc1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc8",
+      "characterPlacement": {
+        "width": 600,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 5
+      },
+      "voiceover": "7",
+      "speaker": "Ambu",
+      "text": "Eh, ada teman-temannya Encep. Sini masuk! Ambu sudah siapkan Bolu Susu dan Seupan Cau untuk kalian.",
+      "choices": null,
+      "next": "scene10"
+    },
+    {
+      "id": "scene10",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": false,
+      "characterImage": null,
+      "characterPlacement": {
+        "width": null,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "voiceover": null,
+      "speaker": null,
+      "text": "",
+      "choices": null,
+      "next": "scene11"
+    },
+    {
+      "id": "scene11",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc9",
+      "characterPlacement": {
+        "width": 257,
+        "height": null,
+        "xOffset": -5,
+        "yOffset": -15
+      },
+      "voiceover": "8",
+      "speaker": "Boaz",
+      "text": "Asyikk! Aku suka Seupan Cau. Boleh aku langsung menyantapnya, Ambu?",
+      "choices": null,
+      "next": "scene12"
+    },
+    {
+      "id": "scene12",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc9",
+      "characterPlacement": {
+        "width": 257,
+        "height": null,
+        "xOffset": -5,
+        "yOffset": -15
+      },
+      "speaker": null,
+      "text": "Makan dengan tangan apa?",
+      "choices": [
+      { "text": "Makan dengan tangan kiri.", "nextSceneId": "scene13a" },
+      { "text": "Makan dengan tangan kanan.", "nextSceneId": "scene13b" }
+      ],
+      "next": null
+    },
+    {
+      "id": "scene13a",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc10",
+      "characterPlacement": {
+        "width": 372,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -30
+      },
+      "voiceover": "jessi1",
+      "speaker": "Hotma",
+      "text": "Boaz, makannya pakai tangan kanan, dong!",
+      "choices": null,
+      "next": "scene14a"
+    },
+    {
+      "id": "scene14a",
+      "background": "bg_st1_sc2_1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc9",
+      "characterPlacement": {
+        "width": 257,
+        "height": null,
+        "xOffset": -5,
+        "yOffset": -15
+      },
+      "speaker": null,
+      "text": "Karena kecerobohannya, Boaz pun dimarahi Hotma. Boaz sekarang sedih dan tidak nafsu makan.",
+      "choices": [
+          { "text": "Ulangi pilihan", "nextSceneId": "scene12" }
+      ],
+      "next": "scene14a"
+    },
+    {
+      "id": "scene13b",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc11",
+      "characterPlacement": {
+        "width": 402,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -35
+      },
+      "voiceover": "10",
+      "speaker": null,
+      "text": "Mereka pun menikmati hidangan yang dibuat Ambu Encep.",
+      "choices": null,
+      "next": "scene14b"
+    },
+    {
+      "id": "scene14b",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc12",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -25
+      },
+      "voiceover": "11",
+      "speaker": "Waha",
+      "text": "Kita main apa ya hari ini?",
+      "choices": null,
+      "next": "scene15"
+    },
+    {
+      "id": "scene15",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc13",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 5
+      },
+      "voiceover": "12",
+      "speaker": null,
+      "text": "Encep menunjukkan hadiah yang dia dapat pada teman-temannya.",
+      "choices": null,
+      "next": "scene16"
+    },
+    {
+      "id": "scene16",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc14",
+      "characterPlacement": {
+        "width": 400,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 20
+      },
+      "voiceover": "13",
+      "speaker": "Encep",
+      "text": "Teman-teman, aku punya mainan baru. Namanya daku.",
+      "choices": null,
+      "next": "scene17"
+    },
+    {
+      "id": "scene17",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc15",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -25
+      },
+      "voiceover": "14",
+      "speaker": "Waha",
+      "text": "Wah, apa itu? Aku baru mendengarnya.",
+      "choices": null,
+      "next": "scene18"
+    },
+    {
+      "id": "scene18",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc13",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 5
+      },
+      "voiceover": "15",
+      "speaker": "Encep",
+      "text": "Daku adalah salah satu permainan tradisional, Waha. Kita bisa bermain daku secara berpasangan.",
+      "choices": null,
+      "next": "scene19"
+    },
+    {
+      "id": "scene19",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc16",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -25
+      },
+      "voiceover": "jessi2",
+      "speaker": "Hotma",
+      "text": "Wahh, aku pernah memainkannya dulu di kampung halamanku. Namanya congklak. Kok jadi daku?",
+      "choices": null,
+      "next": "scene20"
+    },
+    {
+      "id": "scene20",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc17",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -20
+      },
+      "voiceover": "16",
+      "speaker": "Boaz",
+      "text": "Ooh, maggaleceng ini namanya, bukan daku.",
+      "choices": null,
+      "next": "scene21"
+    },
+    {
+      "id": "scene21",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc16",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -25
+      },
+      "voiceover": "jessi3",
+      "speaker": "Hotma",
+      "text": "Ish, ya mungkin memang beda namanya, Boaz.",
+      "choices": null,
+      "next": "scene22"
+    },
+    {
+      "id": "scene22",
+      "background": "bg_st1_sc2_1",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc4",
+      "characterPlacement": {
+        "width": 402,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "voiceover": "17",
+      "speaker": null,
+      "text": "Manakah penyebutan yang benar?",
+      "choices": [
+      { "text": "Congklak", "nextSceneId": "scene23" },
+      { "text": "Manggaleceng", "nextSceneId": "scene23" },
+      { "text": "Daku", "nextSceneId": "scene23" }
+      ],
+      "next": null
+    },
+    {
+      "id": "scene23",
+      "background": "bg_st1_sc1_1",
+      "backgroundBlur": false,
+      "characterImage": "ch_st1_sc4",
+      "characterPlacement": {
+        "width": 402,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "speaker": null,
+      "text": "Semua jawaban benar, yang berbeda hanya cara penyebutan congkak di berbagai daerah. Dalam bahasa Indonesia kata ‘congkak’ ditulis tanpa huruf ‘L’. Banyak daerah dari Sumatra menyebutnya ‘congklak’. ‘Daku’ merupakan sebutan Sunda dan ‘Maggaleceng’ sebutan dari Indonesia Timur.",
+      "choices": null,
+      "next": "scene24"
+    },
+    {
+      "id": "scene24",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc15",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": -25
+      },
+      "voiceover": "18",
+      "speaker": "Waha",
+      "text": "Oooh, lalu kerang-kerang kecil ini untuk apa?",
+      "choices": null,
+      "next": "scene25"
+    },
+    {
+      "id": "scene25",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc13",
+      "characterPlacement": {
+        "width": 250,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 5
+      },
+      "voiceover": "19",
+      "speaker": "Encep",
+      "text": "Kerang-kerang kecil ini kita letakkan di lubang yang berada di sampingnya, searah jarum jam. Namun, setiap lubang hanya boleh diisi satu kerang saja. Ibuku bilang congklak ini mengajarkan kita untuk bisa berbagi secukupnya.",
+      "choices": null,
+      "next": "scene26"
+    },
+    {
+      "id": "scene26",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": true,
+      "characterImage": "ch_st1_sc18",
+      "characterPlacement": {
+        "width": 360,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "voiceover": "20",
+      "speaker": null,
+      "text": "Encep, Hotma, Waha, dan Boaz menikmati permainan congklak itu. Mereka senang memainkannya. Mereka memainkan congkak secara bergiliran.",
+      "choices": null,
+      "next": "scene27"
+    },
+    {
+      "id": "scene27",
+      "background": "bg_st1_sc2",
+      "backgroundBlur": false,
+      "characterImage": null,
+      "characterPlacement": {
+        "width": 360,
+        "height": null,
+        "xOffset": 0,
+        "yOffset": 0
+      },
+      "speaker": null,
+      "text": "TAMAT.",
+      "choices": null,
+      "next": null
+    }
+  ]
+}
